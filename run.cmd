@@ -1,6 +1,6 @@
 @echo off
 echo -
-echo https://www.youtube.com/c/koytz - Inscreva-se no meu canal \o
+echo -
 echo -
 pause
 @echo off
